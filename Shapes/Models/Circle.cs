@@ -12,7 +12,7 @@ namespace Shapes.Models
 
   public double GetDiameter()
   {
-    return Radius *2;
+    return Radius *2.0;
   }
   public double GetCircumference()
   {

@@ -14,5 +14,13 @@ namespace Shapes.Tests
       double result = tester.GetCircumference();
       Assert.AreEqual(Math.Round(result,1), Math.Round(31.4,1));
     }
+
+    [TestMethod]
+    public void Circle_GetDiameter_DiameterOfCircle()
+    {
+      Circle tester = new Circle(5.0);
+      double result = tester.GetDiameter();
+      Assert.AreEqual(Math.Round(result,1), Math.Round(10.0,1));
+    }
   }
 }
