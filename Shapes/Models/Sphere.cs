@@ -18,7 +18,7 @@ namespace Shapes.Models
 
     public double GetSurface()
     {
-      return 0; //return Math.Round(4*Math.PI* Math.Pow(CrossSection.Radius,2),2)
+      return Math.Round(4*Math.PI* Math.Pow(CrossSection.Radius,2),2);
     }
 
   }
