@@ -1,10 +1,10 @@
-# _Bakery_
+# _Shapes_
 
-#### May 8th, 2020
+#### May 13th, 2020
 
 ## Description
 
-_This console application will allow the user to buy items from a bakery that has special deals_
+_Testing some shapes_
 
 _This application is already linked to a Program.cs, .csproj, & .gitignore, but will need a .NET 3.1 or 2.2 download_
 
@@ -58,7 +58,7 @@ _N/A_ - 5/8/2020
 
 ## gh-pages
 
-WiseFool92.github.io/bakery
+WiseFool92.github.io/Shapes
 
 ## Support
 
@@ -103,4 +103,4 @@ _Email: watkins92@gmail.com_
 
 This project is licensed under the MIT License
 
-Copyright (c) 2020 **_Nathan Watkins-Hoagland_**
+Copyright (c) 2020 **_Nathan Watkins-Hoagland & Eric Settels_**
